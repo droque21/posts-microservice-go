@@ -1,4 +1,4 @@
-module github.com/droque21/posts-microservice-go/auth
+module github.com/droque21/posts-microservice-go
 
 go 1.19
 
